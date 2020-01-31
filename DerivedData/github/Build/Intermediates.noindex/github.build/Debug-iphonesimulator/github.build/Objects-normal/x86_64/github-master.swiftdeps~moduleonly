@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "a2cb77c8f1a95d1ad93c055a2413189a"
+build_time: [1580474183, 918424000]
+inputs:
+  "/Users/s013268/Desktop/Computer Science Seminar/github/github/AppDelegate.swift": [1580473682, 493443691]
+  "/Users/s013268/Desktop/Computer Science Seminar/github/github/SceneDelegate.swift": [1580473682, 503733650]
+  "/Users/s013268/Desktop/Computer Science Seminar/github/github/ContentView.swift": [1580474145, 604551906]

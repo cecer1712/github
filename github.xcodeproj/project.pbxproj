@@ -15,6 +15,9 @@
 		030F4ED323E454D3000EDA5E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 030F4ED123E454D3000EDA5E /* LaunchScreen.storyboard */; };
 		030F4EDE23E454D3000EDA5E /* githubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030F4EDD23E454D3000EDA5E /* githubTests.swift */; };
 		030F4EE923E454D3000EDA5E /* githubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030F4EE823E454D3000EDA5E /* githubUITests.swift */; };
+		030F4EF823E458AE000EDA5E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 030F4EF623E458AE000EDA5E /* ViewController.swift */; };
+		030F4EF923E458AE000EDA5E /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 030F4EF723E458AE000EDA5E /* ViewController.xib */; };
+		030F4EFB23E45939000EDA5E /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 030F4EFA23E45939000EDA5E /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		030F4EE423E454D3000EDA5E /* githubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		030F4EE823E454D3000EDA5E /* githubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubUITests.swift; sourceTree = "<group>"; };
 		030F4EEA23E454D3000EDA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		030F4EF623E458AE000EDA5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		030F4EF723E458AE000EDA5E /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		030F4EFA23E45939000EDA5E /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +112,9 @@
 				030F4ED123E454D3000EDA5E /* LaunchScreen.storyboard */,
 				030F4ED423E454D3000EDA5E /* Info.plist */,
 				030F4ECE23E454D3000EDA5E /* Preview Content */,
+				030F4EF623E458AE000EDA5E /* ViewController.swift */,
+				030F4EF723E458AE000EDA5E /* ViewController.xib */,
+				030F4EFA23E45939000EDA5E /* Storyboard.storyboard */,
 			);
 			path = github;
 			sourceTree = "<group>";
@@ -242,7 +251,9 @@
 			files = (
 				030F4ED323E454D3000EDA5E /* LaunchScreen.storyboard in Resources */,
 				030F4ED023E454D3000EDA5E /* Preview Assets.xcassets in Resources */,
+				030F4EF923E458AE000EDA5E /* ViewController.xib in Resources */,
 				030F4ECD23E454D3000EDA5E /* Assets.xcassets in Resources */,
+				030F4EFB23E45939000EDA5E /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +280,7 @@
 			files = (
 				030F4EC723E454D2000EDA5E /* AppDelegate.swift in Sources */,
 				030F4EC923E454D2000EDA5E /* SceneDelegate.swift in Sources */,
+				030F4EF823E458AE000EDA5E /* ViewController.swift in Sources */,
 				030F4ECB23E454D2000EDA5E /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
